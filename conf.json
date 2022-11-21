@@ -1,0 +1,7 @@
+{
+    "bot_tokens": [
+        ""
+    ],
+    "webhook_url": "https://discord.com/api/webhooks/webhook_id/webhook_token",
+    "command_prefix": ",,"
+}
